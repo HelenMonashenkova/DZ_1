@@ -1,0 +1,47 @@
+ * {
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.header{
+    
+    background-color: rgb(167, 181, 229);
+    width: auto;
+    height: 100px;
+          
+    }
+
+.url_head{
+text-decoration: none;
+font-size: 25px;
+line-height: 40px;
+color:black;
+width: 100px;
+height: 40px;
+text-align: center;
+border-color: rgb(23, 23, 123);
+
+}
+
+.url_head:hover{
+background-color: aliceblue;
+}
+
+.html {
+
+    font-size: 50px;
+    font-family: 'Roboto'sans-serif;
+  }
